@@ -1,0 +1,10 @@
+ls - enlistar archovos dentro de la carpeta
+cd - cambiar de directorio
+touch - crear archivo o documento
+mkdir -crear carpeta
+cd .. - regresar una carpeta anterior
+cat - visualisar el archivo 
+code . - abrir la carpeta en vsc
+rm - borrar archivo
+mv - mover archivo
+ls -lha - en listar los archivos
